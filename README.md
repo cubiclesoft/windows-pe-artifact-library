@@ -37,7 +37,7 @@ Submitting New Samples
 To submit a new sample:
 
 * Submissions without proper spelling or punctuation when describing details about a sample will be summarily rejected.  Also, be professional and use language suitable for polite company.
-* Use the `pe_tools.php artifacts origins` option to generate the correct Markdown files for sample submissions.  All fields are required.
+* Use the `pe_tools.php artifacts origins` option to generate the correct text files for sample submissions.  All fields are required.
 * Must not contain malware.  While some of the more interesting PE samples out there are found in the malware universe, this repo is for standard PE files only.
 * Submitted samples must either be:  Unique in some way not seen before (`pe_tools.php artifacts find` will report rarity) OR be significantly smaller than the existing sample.
 * Pull requests depend on forking, which, as previously mentioned under Copyright Notes, are disallowed for legal reasons.  Submissions of samples must be made via file upload to the issue tracker.  The GitHub issue tracker allows both ZIP and .tar.gz files.
