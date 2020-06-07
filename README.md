@@ -41,3 +41,10 @@ To submit a new sample:
 * Must not contain malware.  While some of the more interesting PE samples out there are found in the malware universe, this repo is for standard PE files only.
 * Submitted samples must either be:  Unique in some way not seen before (`pe_tools.php artifacts find` will report rarity) OR be significantly smaller than the existing sample.
 * Pull requests depend on forking, which, as previously mentioned under Copyright Notes, are disallowed for legal reasons.  Submissions of samples must be made via file upload to the issue tracker.  The GitHub issue tracker allows both ZIP and .tar.gz files.
+
+Other PE Artifact Libraries
+---------------------------
+
+* https://github.com/corkami/pocs/tree/master/PE
+
+The above artifacts have NOT been vetted by CubicleSoft.  Be careful when handling unknown executables.  Your mileage may vary in terms of legitimacy, quality, and safety.
