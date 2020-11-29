@@ -7,7 +7,7 @@ Artifacts in this library were found automatically via the artifact finder tool 
 
 Unusual license alert:  The binaries in this repo are NOT owned by CubicleSoft and each one has its own unique license when acquired as a formal binary file rather than as a PE file data sample.  This repository is intended solely for research and analysis purposes into the Windows PE file format.  If you aren't here for that reason and ONLY that reason, then this repository is not legal for you to use.
 
-[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/)
+[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/) [![Discord](https://img.shields.io/discord/777282089980526602?label=chat&logo=discord)](https://cubiclesoft.com/product-support/github/)
 
 Features
 --------
