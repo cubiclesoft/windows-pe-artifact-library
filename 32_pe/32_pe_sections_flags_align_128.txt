@@ -1,0 +1,33 @@
+32_pe/32_pe_sections_flags_align_128
+====================================
+
+Source:  A:/http/x264.nl/x264/32bit/8bit_depth/revision2074/x264.exe
+Size:  9,503,744 bytes
+Created:  February 16, 2023, 10:40 pm GMT
+Modified:  May 22, 2021, 11:57 am GMT
+
+Hashes
+------
+
+Raw MD5:  512ab241b31e4bf61926941be51beec3
+Raw SHA1:  de50c5a8120ce37151432ecf8954618bdb5114f6
+Raw SHA256:  eb9d424f78f29e892901a75e5478cf8454ed2e122c9335fee3e200eb9ace60d7
+
+Certificate MD5:  5E4C6E3733799842F4350B8616E47508
+Certificate SHA1:  FB94D1F08F472705F94066E9068E248E51AC0D5F
+Certificate SHA256:  DB7084B7055922DE1D5B2D0798B7A19AB639C9F4E79FE597ADD0D125C15A9B1B
+
+Similar
+-------
+
+Samples:  3
+
+A:/http/ffmpeg.zeranoe.com/builds/win32/shared/ffmpeg-git-6cb2085-win32-shared.7z/bin/avcodec-54.dll
+A:/http/x264.nl/x264/32bit/8bit_depth/revision2120/x264.exe
+
+Submitter
+---------
+
+Nicolas Le Gland
+nicolas@legland.fr
+Research engineer

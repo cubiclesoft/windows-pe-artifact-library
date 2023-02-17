@@ -1,0 +1,29 @@
+dos/dos_only
+============
+
+Source:  A:/http/cd.textfiles.com/waycool/GAMES/SCW/STARCTL.DLL
+Size:  1,296 bytes
+Created:  February 16, 2023, 11:59 pm GMT
+Modified:  May 26, 1991, 11:31 pm GMT
+
+Hashes
+------
+
+Raw MD5:  53cdbda50bcf69e10818f972efb3f955
+Raw SHA1:  da86fbe02c9f0aef682c11fdc6a42ae90e75ba64
+Raw SHA256:  cd6f21584284b86f035a05d5e849a7555fc4f5a8df6d010760cc583486cef4f2
+
+Similar
+-------
+
+Samples:  56
+
+A:/https/winworldpc.com/download/0b1a65c2-ba46-c2b0-11c3-a4c28d587054/Multitasking MS-DOS Version 4.00 (5.25).7z/Multitasking MS-DOS Version 4.00 (5.25)/MSDOS400M-DISK1.img/BIN/CHKDSK.EXE
+A:/https/defacto2.net/d/a520164/packers.zip/wwpack.305b5-piotr warezak & rafal wierzbicki/crk2/WWP__REG.EXE
+
+Submitter
+---------
+
+Nicolas Le Gland
+nicolas@legland.fr
+Research engineer

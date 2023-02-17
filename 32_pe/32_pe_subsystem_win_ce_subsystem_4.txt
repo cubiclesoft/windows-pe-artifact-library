@@ -1,0 +1,51 @@
+32_pe/32_pe_subsystem_unknown_4
+===============================
+
+Source:  D:/TEMP/infozip/wince/hitachi/punzip.exe
+Size:  116,224 bytes
+Created:  February 17, 2023, 2:23 pm GMT
+Modified:  December 4, 2007, 4:54 pm GMT
+
+File Details
+------------
+
+Product Version:  1.0.0.0
+OS:  VOS_UNKNOWN
+Type:  Application
+
+Comments:  Pocket UnZip is built on top of Info-ZIP's UnZip 5.30 source code.
+CompanyName:  Steve P. Miller (stevemil@pobox.com)
+FileDescription:  Pocket UnZip® for Windows® CE (Hitachi SH-3)
+FileVersion:  1.0 for Windows® CE (Hitachi SH-3)
+InternalName:  PUNZIP
+LegalCopyright:  Copyright © 1997 Steve P. Miller.  All Rights Reserved.
+OriginalFilename:  PUNZIP.EXE
+ProductName:  Pocket UnZip®
+ProductVersion:  1.0
+
+Hashes
+------
+
+Raw MD5:  e4290dff59b92a024b583ff88525602e
+Raw SHA1:  a73ecb2f7e6128b45ae248e5270c0ff6bb45d95e
+Raw SHA256:  cba6dbd4600bfcc0fdabf2a0c2c6eb5c5aeda8caf98fdaa96928373da53fd253
+
+Certificate MD5:  6D27DC1888AC9F2A5A9DE05A94C65A43
+Certificate SHA1:  75C0D189AB7DE02E39DAF289BDC77647F2AE2F77
+Certificate SHA256:  8D340F784525316289EC10F6115567A28BD1FECE377C4FB9F7F767F6B8DEF4A4
+
+Similar
+-------
+
+Samples:  9
+
+D:/TEMP/infozip/wince/compaq/punzip.exe
+D:/TEMP/infozip/wince/lge/punzip.exe
+D:/TEMP/infozip/wince/sh3/punzip.exe
+
+Submitter
+---------
+
+Thomas Hruska
+support@cubiclesoft.com
+CubicleSoft

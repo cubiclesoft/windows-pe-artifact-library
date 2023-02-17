@@ -1,0 +1,29 @@
+16_ne/16_ne_target_os_dos4
+==========================
+
+Source:  A:/https/winworldpc.com/download/0b1a65c2-ba46-c2b0-11c3-a4c28d587054/Multitasking MS-DOS Version 4.00 (5.25).7z/Multitasking MS-DOS Version 4.00 (5.25)/MSDOS400M-DISK2.img/QUEUER.EXE
+Size:  6,312 bytes
+Created:  February 16, 2023, 10:07 pm GMT
+Modified:  November 26, 1985, 10:04 pm GMT
+
+Hashes
+------
+
+Raw MD5:  8b6d2c1f876f6914275876ead66cdf5b
+Raw SHA1:  c34211db9f90afff49d441c2df746d754f5c5cff
+Raw SHA256:  ac9a4364977b833fa991e5b3c70886bee92eae03e4053b29fcfb3b7c5363211a
+
+Similar
+-------
+
+Samples:  3
+
+A:/https/winworldpc.com/download/0b1a65c2-ba46-c2b0-11c3-a4c28d587054/Multitasking MS-DOS Version 4.00 (5.25).7z/Multitasking MS-DOS Version 4.00 (5.25)/MSDOS400M-DISK1.img/BIN/MODE.EXE
+A:/https/winworldpc.com/download/0b1a65c2-ba46-c2b0-11c3-a4c28d587054/Multitasking MS-DOS Version 4.00 (5.25).7z/Multitasking MS-DOS Version 4.00 (5.25)/MSDOS400M-DISK2.img/LABEL.EXE
+
+Submitter
+---------
+
+Nicolas Le Gland
+nicolas@legland.fr
+Research engineer

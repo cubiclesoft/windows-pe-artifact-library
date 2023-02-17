@@ -1,0 +1,29 @@
+16_ne/16_ne_program_flags_8086
+==============================
+
+Source:  A:/http/cd.textfiles.com/sbup/BUSINESS/ADDRESS/LOADVBRN.EXE
+Size:  3,993 bytes
+Created:  February 16, 2023, 11:56 pm GMT
+Modified:  June 16, 1992, 2:14 pm GMT
+
+Hashes
+------
+
+Raw MD5:  0a90a3328abb70a02a003c841ccfc3ea
+Raw SHA1:  f6cca983a10eb25be80b02e48e804535ad19c29c
+Raw SHA256:  c88f53d9b817473ceddf8086595272fe32243554252d7cf32e400c6c1460705d
+
+Similar
+-------
+
+Samples:  232
+
+A:/http/cd.textfiles.com/sbup/UTIL/NDWFRESH/NDWFRESH.EXE
+A:/http/cd.textfiles.com/sbup/UTIL/WINDRY/TFSMCB.EXE
+
+Submitter
+---------
+
+Nicolas Le Gland
+nicolas@legland.fr
+Research engineer

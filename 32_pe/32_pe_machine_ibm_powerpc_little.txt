@@ -1,0 +1,33 @@
+32_pe/32_pe_machine_ibm_powerpc_little
+======================================
+
+Source:  A:/ftp/ftp.info-zip.org/pub/infozip/win32/zip21xn-ppc.zip/zipsplit.exe
+Size:  89,600 bytes
+Created:  February 17, 2023, 12:19 am GMT
+Modified:  July 3, 1996, 6:02 am GMT
+
+Hashes
+------
+
+Raw MD5:  9be27d6b561d187cd7e432174825ef6a
+Raw SHA1:  3424d35df79d0324d7fc3926c2fcc2bf0345de51
+Raw SHA256:  01bd9e906e59abd6a9c49f4a503ca23bf4546da03ebcf92ab9066efe8859abad
+
+Certificate MD5:  BDA855527162646D5A0EAFECFD7889AB
+Certificate SHA1:  7A386353C3F55FF85A9D2162AE46807BD7E1A0F9
+Certificate SHA256:  D250EEC0AEBC280CD3225DAFEEF4AD24A3234A4D01D7BA5432E6D8B6F96EC33C
+
+Similar
+-------
+
+Samples:  5
+
+A:/ftp/ftp.info-zip.org/pub/infozip/win32/zip21xn-ppc.zip/zipcloak.exe
+A:/ftp/ftp.info-zip.org/pub/infozip/win32/zip21xn-ppc.zip/zipnote.exe
+
+Submitter
+---------
+
+Nicolas Le Gland
+nicolas@legland.fr
+Research engineer

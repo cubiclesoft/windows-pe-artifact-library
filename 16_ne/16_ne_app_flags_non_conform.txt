@@ -1,0 +1,29 @@
+16_ne/16_ne_app_flags_non_conform
+=================================
+
+Source:  A:/http/cd.textfiles.com/sbup/COMM/WSEND/WSENDDLL.DLL
+Size:  2,240 bytes
+Created:  February 16, 2023, 11:57 pm GMT
+Modified:  February 27, 1991, 7:20 pm GMT
+
+Hashes
+------
+
+Raw MD5:  fd2154a149208203e41df348a5e0e05d
+Raw SHA1:  19840d4eea6fd8562db2fffd5c4e47909d37fdb5
+Raw SHA256:  30dee864891190e4061d85b81d948f0e76ebe9a17bb03731ff44562357962f32
+
+Similar
+-------
+
+Samples:  9
+
+A:/https/winworldpc.com/download/0b1a65c2-ba46-c2b0-11c3-a4c28d587054/Multitasking MS-DOS Version 4.00 (5.25).7z/Multitasking MS-DOS Version 4.00 (5.25)/MSDOS400M-DISK1.img/BIN/SM.EXE
+A:/http/cd.textfiles.com/aztechmb/DRUM/DRUMDLL.DLL
+
+Submitter
+---------
+
+Nicolas Le Gland
+nicolas@legland.fr
+Research engineer

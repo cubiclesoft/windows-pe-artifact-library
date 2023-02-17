@@ -1,0 +1,31 @@
+64_pe/64_pe_sections_flags_align_128
+====================================
+
+Source:  A:/http/ffmpeg.zeranoe.com/builds/win64/shared/ffmpeg-git-6cb2085-win64-shared.7z/bin/avcodec-54.dll
+Size:  14,118,912 bytes
+Created:  February 16, 2023, 10:18 pm GMT
+Modified:  May 22, 2021, 11:27 am GMT
+
+Hashes
+------
+
+Raw MD5:  62eaa791d6ded90522287a7e7e0b29b8
+Raw SHA1:  0a0e56320ffa0b8c153ecf9c8654aa19aa658a53
+Raw SHA256:  04c19ccff1b483124d5e2e75afcb543148d6afae3eb39225c2ebb3bda43d26fc
+
+Certificate MD5:  5A64A8342FE8234C0FF970575393B1F9
+Certificate SHA1:  3BD51C1B2EC165D504F7090C5131F8B96E89E131
+Certificate SHA256:  8ABCD64AE0998061AC28396E3B35CA49AC5AE34B40BAB471D526A5A780A4A8C0
+
+Similar
+-------
+
+Samples:  1
+
+
+Submitter
+---------
+
+Nicolas Le Gland
+nicolas@legland.fr
+Research engineer

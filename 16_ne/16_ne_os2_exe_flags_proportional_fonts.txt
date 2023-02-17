@@ -1,0 +1,29 @@
+16_ne/16_ne_os2_exe_flags_proportional_fonts
+============================================
+
+Source:  A:/http/cd.textfiles.com/sbup/UTIL/APORIA/APLIB.EXE
+Size:  2,165 bytes
+Created:  February 16, 2023, 11:59 pm GMT
+Modified:  October 12, 1990, 12:11 pm GMT
+
+Hashes
+------
+
+Raw MD5:  559b643b70276692832e0e0c4331b8ba
+Raw SHA1:  d58a382131e95a366bf71d2b9a1cf5d12cc00a89
+Raw SHA256:  e3bf79d9b5d92b780d5de909ba3285bbd0abf54eb8f9a91c889e36e529d6f809
+
+Similar
+-------
+
+Samples:  37
+
+A:/https/winworldpc.com/download/0b1a65c2-ba46-c2b0-11c3-a4c28d587054/Multitasking MS-DOS Version 4.00 (5.25).7z/Multitasking MS-DOS Version 4.00 (5.25)/MSDOS400M-DISK1.img/HE_DAEM.EXE
+A:/http/cd.textfiles.com/sbup/UTIL/DDEWATCH/DDEWATLB.EXE
+
+Submitter
+---------
+
+Nicolas Le Gland
+nicolas@legland.fr
+Research engineer

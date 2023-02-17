@@ -1,0 +1,29 @@
+16_ne/16_ne_app_flags_type_winpmcompat
+======================================
+
+Source:  A:/ftp/ftp.info-zip.org/pub/infozip/os2/zip23c.zip/16-bit/zipnote.exe
+Size:  38,757 bytes
+Created:  February 17, 2023, 12:18 am GMT
+Modified:  January 9, 2000, 10:36 am GMT
+
+Hashes
+------
+
+Raw MD5:  cd3d664bea38cd19c45bb595897e81f1
+Raw SHA1:  304dff5dba4622818afbfaa09b9fc7987e72fdf6
+Raw SHA256:  2b087ff37420f7a5a1620b531f3df988aa9dfdad65e901585f8345c0bc40d327
+
+Similar
+-------
+
+Samples:  12
+
+A:/ftp/ftp.info-zip.org/pub/infozip/os2/zip23c.zip/16-bit/zipsplit.exe
+A:/ftp/ftp.info-zip.org/pub/infozip/os2/zip231c.zip/16-bit/zipnote.exe
+
+Submitter
+---------
+
+Nicolas Le Gland
+nicolas@legland.fr
+Research engineer

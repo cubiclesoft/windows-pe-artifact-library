@@ -1,0 +1,29 @@
+16_ne/16_ne_os2_exe_flags_protected_mode
+========================================
+
+Source:  A:/https/winworldpc.com/download/0b1a65c2-ba46-c2b0-11c3-a4c28d587054/Multitasking MS-DOS Version 4.00 (5.25).7z/Multitasking MS-DOS Version 4.00 (5.25)/MSDOS400M-DISK1.img/BIN/SUBST.EXE
+Size:  8,400 bytes
+Created:  February 16, 2023, 10:07 pm GMT
+Modified:  November 26, 1985, 10:05 pm GMT
+
+Hashes
+------
+
+Raw MD5:  6cd95dff819226c80fcae1e0e9b5a630
+Raw SHA1:  68037106239a8bfbba1e21879242e3d62599d4ad
+Raw SHA256:  5b2bedcda3ffd374640c9dd79e2f0bd2296a0fd8f46decf1024f1c60dff2067a
+
+Similar
+-------
+
+Samples:  13
+
+A:/http/cd.textfiles.com/aztechmb/CHECKERS/CHECKERS.EXE
+A:/https/winworldpc.com/download/0b1a65c2-ba46-c2b0-11c3-a4c28d587054/Multitasking MS-DOS Version 4.00 (5.25).7z/Multitasking MS-DOS Version 4.00 (5.25)/MSDOS400M-DISK2.img/PRINT.EXE
+
+Submitter
+---------
+
+Nicolas Le Gland
+nicolas@legland.fr
+Research engineer

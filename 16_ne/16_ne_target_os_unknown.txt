@@ -1,0 +1,29 @@
+16_ne/16_ne_target_os_unknown
+=============================
+
+Source:  A:/https/winworldpc.com/download/0b1a65c2-ba46-c2b0-11c3-a4c28d587054/Multitasking MS-DOS Version 4.00 (5.25).7z/Multitasking MS-DOS Version 4.00 (5.25)/MSDOS400M-DISK1.img/POPUP.EXE
+Size:  1,870 bytes
+Created:  February 16, 2023, 10:07 pm GMT
+Modified:  November 26, 1985, 10:04 pm GMT
+
+Hashes
+------
+
+Raw MD5:  fa456459ecd8abc1f062ce8885ea0a18
+Raw SHA1:  ab7554b12c0e155c4f1e40e2526b8e010154a3b7
+Raw SHA256:  36cc244904f9922ce2b73e6e5680ae35c2bfe725940261d40853a2e354f6296e
+
+Similar
+-------
+
+Samples:  5
+
+A:/https/winworldpc.com/download/0b1a65c2-ba46-c2b0-11c3-a4c28d587054/Multitasking MS-DOS Version 4.00 (5.25).7z/Multitasking MS-DOS Version 4.00 (5.25)/MSDOS400M-DISK1.img/HE_DAEM.EXE
+A:/https/winworldpc.com/download/0b1a65c2-ba46-c2b0-11c3-a4c28d587054/Multitasking MS-DOS Version 4.00 (5.25).7z/Multitasking MS-DOS Version 4.00 (5.25)/MSDOS400M-DISK1.img/BIN/SWAPPER.EXE
+
+Submitter
+---------
+
+Nicolas Le Gland
+nicolas@legland.fr
+Research engineer
