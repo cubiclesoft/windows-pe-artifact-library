@@ -19,7 +19,7 @@ Features
 * Detailed origin information for each artifact.
 * Malware free.
 * Probably the largest, most complete, organized, and succinct public library of unique PE artifact samples in the world.  Great for building and validating PE file format software libraries!
-* Files are organized by each possible option within each PE file format structure as defined by the Microsot Windows PE/COFF specification.
+* Files are organized by each possible option within each PE file format structure as defined by the Microsoft Windows PE/COFF specification.
 * Sits on GitHub for all of that issue tracker goodness to easily submit changes and ideas respectively.
 
 Copyright Notes
